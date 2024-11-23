@@ -10,10 +10,10 @@
 - ⚡ Fun fact: ...
 
 <p align="left">
-  <a href="https://github.com/Keichan15">
+  <a href="https://github.com/Tsukigake">
     <img height="20" src="https://komarev.com/ghpvc/?username=Tsukigake" />
   </a>
-  <a href="https://github.com/Keichan15">
+  <a href="https://github.com/Tsukigake">
     <img height="20" src="https://img.shields.io/github/followers/Tsukigake?label=follow&logo=github&style=flat" />
   </a>
 </p>
