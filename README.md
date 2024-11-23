@@ -2,7 +2,7 @@
 
 ## Profile
 
-立命館大学理工学部 & Ri-one SSL / KA12 
+立命館大学理工学部 & Ri-one SSL
 
 愛車：シロコのバイク（ちょっと違うけど）Bianchi Sprint 2024 
 
