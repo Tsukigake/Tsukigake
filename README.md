@@ -22,7 +22,7 @@
 
 ## コス　データ
 
-・砂狼シロコ
+・砂狼シロコ　https://github.com/Tsukigake/cosplay_siroko
 
 ## Statu
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tsukigake&theme=nord_dark)
