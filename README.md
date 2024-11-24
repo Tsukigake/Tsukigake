@@ -10,6 +10,8 @@
 
 3Dプリンター、CNC、レーザー加工機でコスの道具を作ってる人
 
+[![My Skills](https://skillicons.dev/icons?i=autocad,blender,c,cs,cpp,html)](https://skillicons.dev)
+
 ## コスプレ　2025の予定
 
 ・ラグコス：ライカン
