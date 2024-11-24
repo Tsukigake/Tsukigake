@@ -20,6 +20,10 @@
 
 ・どっかで ： シロコ
 
+## コス　データ
+
+・砂狼シロコ
+
 ## Statu
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tsukigake&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tsukigake&theme=nord_dark)
