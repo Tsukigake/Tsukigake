@@ -20,7 +20,7 @@
 
 ・どっかで ： シロコ
 
-## コス　データ
+## コスプレ　データ
 
 ・砂狼シロコ　https://github.com/Tsukigake/cosplay_siroko
 
