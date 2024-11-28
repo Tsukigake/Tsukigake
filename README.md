@@ -14,6 +14,8 @@
 
 ## コスプレ　2025の予定
 
+・大津街中 ： 楓原万葉
+
 ・ラグコス：ライカン or 楓原万葉
 
 ・鈴鹿８時間エンデューロ : シロコ（ライディング）
@@ -26,6 +28,9 @@
 
 ## Statu
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tsukigake&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tsukigake&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tsukigake&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tsukigake&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tsukigake&theme=nord_dark&utcOffset=9)
+
 
