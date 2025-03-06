@@ -24,9 +24,7 @@
 
 ## コスプレ　データ
 
-・砂狼シロコ　https://github.com/Tsukigake/cosplay_siroko
-
-・ルアン・メェイ　https://github.com/Tsukigake/cosplay_ruan-mei
+・ブルーアーカイブ ： https://github.com/Tsukigake/Blue_Archive
 
 ## Statu
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tsukigake&theme=nord_dark)
