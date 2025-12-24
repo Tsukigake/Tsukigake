@@ -14,9 +14,7 @@
 
 ## コスプレ　データ
 
-・ブルーアーカイブ：https://github.com/Tsukigake/Blue_Archive
-
-・ゼンレスゾーンゼロ：https://github.com/Tsukigake/Zenless-Zone-Zero
+https://github.com/Tsukigake/Cosplay-3D-Models
 
 ## Statu
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tsukigake&theme=nord_dark)
