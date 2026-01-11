@@ -1,5 +1,3 @@
-# 月駆のGitHub
-
 ## Profile
 
 立命館大学理工学部 Ri-one SSL/Circuit & Hardware Division
